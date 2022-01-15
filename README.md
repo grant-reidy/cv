@@ -1,2 +1,2 @@
-# Fake Terminal Resume Website
+# CV Website
 
